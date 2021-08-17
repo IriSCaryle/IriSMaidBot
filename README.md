@@ -1,0 +1,2 @@
+# IriSMaidBot
+Discordサーバーでありとあらゆる事をやるbot
